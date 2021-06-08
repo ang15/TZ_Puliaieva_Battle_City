@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Stone
+  - PlayerFriends
+  - Wall
+  - BaseEnemy
+  - BasePlayer
+  - Model
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerFriends
+  - Player
+  - Enemy
+  - Stone2
+  - Stone1
+  - Bullet
+  - BaseEnemy
+  - BasePlayer
+  - Model
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground1
+    uniqueID: 3160597823
+    locked: 0
+  - name: Ground2
+    uniqueID: 2624834095
+    locked: 0
+  - name: Ground2.5
+    uniqueID: 2233808197
+    locked: 0
+  - name: Ground3
+    uniqueID: 3760600257
+    locked: 0
+  - name: Ground4
+    uniqueID: 4026668707
+    locked: 0
